@@ -1,7 +1,6 @@
 import json, time, os
 import requests
 from notion_client import Client
-
 from io import BytesIO
 from PIL import Image
 import cv2 

@@ -1,7 +1,6 @@
 import textwrap
 import time, os
 from io import BytesIO
-from matplotlib.pyplot import imshow
 import cv2 
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
