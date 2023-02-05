@@ -1,7 +1,6 @@
 import json
 import generate_image
 import notion_api
-
 def handler(event, context):
     body = event["body-json"]
     client = body["client"]
